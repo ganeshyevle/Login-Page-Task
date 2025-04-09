@@ -30,14 +30,9 @@ This is a simple login page application built using **React**. The project inclu
 2. Navigate to the project directory:
    ```
    cd Login-Page-Task
-
-
 3. Install the dependencies:
    ```
    npm install
-
 4. Start the development server:
    ```
    npm start
-
-
