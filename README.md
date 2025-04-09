@@ -28,19 +28,16 @@ This is a simple login page application built using **React**. The project inclu
    git clone https://github.com/ganeshyevle/Login-Page-Task.git
 
 2. Navigate to the project directory:
-   ```cd Login-Page-Task
+   ```
+   cd Login-Page-Task
 
 
 3. Install the dependencies:
-   ```npm install
+   ```
+   npm install
 
 4. Start the development server:
-   ```npm start
+   ```
+   npm start
 
-### How to Use:
-1. **Replace the placeholders**:
-   - If you want to add additional information like project goals, setup guides, or contribution guidelines, feel free to add sections or modify the content.
 
-2. **Install & Run**: Make sure you add any additional installation instructions or any configuration files your project may need.
-
-Let me know if you need further modifications or more details!
